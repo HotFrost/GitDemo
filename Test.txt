@@ -4,3 +4,4 @@ change three
 change four
 removed the line
 change six
+change in branch to merge
