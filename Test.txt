@@ -1,7 +1,0 @@
-change one in master
-change two
-change three
-change four
-removed the line
-change six
-change in branch to merge
